@@ -8,7 +8,7 @@
 #   HUBOT_GITHUB_TOKEN
 #
 # Commands:
-#   hubot deploy <project_name>(/branch) to <environment> - merges the selected branches or SHA commits into master or develop
+#   hubot merge <project_name>(/branch) to <environment> - merges the selected branches or SHA commits into master or develop
 
 module.exports = (robot) ->
 
